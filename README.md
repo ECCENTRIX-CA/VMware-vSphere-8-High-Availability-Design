@@ -1,4 +1,4 @@
-# VMware-vSphere-8-High-Availability-Design
+# VMware vSphere 8 High Availability Design
 VMware vSphere 8's High Availability (HA) capabilities provide organizations with robust solutions for maintaining business continuity and minimizing downtime.
 
 VMware vSphere 8's High Availability (HA) capabilities provide organizations with robust solutions for maintaining business continuity and minimizing downtime. As covered in the [VMware vSphere 8.0 with ESXi and vCenter](https://www.eccentrix.ca/en/courses/networking/vmware-vsphere-8-0-with-esxi-and-vcenter-vm7431) certification path, this comprehensive guide explores implementation strategies and best practices for designing highly available infrastructures.
